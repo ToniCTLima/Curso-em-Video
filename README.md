@@ -13,3 +13,6 @@
  ex 003 - Crie um script que leia dois números e tente mostrar a soma entre eles.
  
  ex 005 - Faça um programa que leia o número inteiro e mostre na tela seu sucessor e seu antecessor.
+
+ ex006 - Crie um algoritmo que leia um número e mostre o seu dobro, triplo e a raiz quadrada.
+ 
