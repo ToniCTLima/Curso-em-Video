@@ -29,3 +29,9 @@
  ex012 - Faça um algoritmo que leia o preço de um produto e mostre o novo preço, com 5% de desconto.
 
  ex013 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário com 15% de aumento.
+
+ ex014 - Escreva um programa que converta uma temperatura digitada em C° e converta para F°.
+
+ ex015 - Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado e a quantidade de dias pelo quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60 por dia e R$ 0.15 por km rodado.
+
+ 
