@@ -51,3 +51,10 @@ ex022 - Crie um programa que leia o nome completo de uma pessoa e mostre: o nome
 ex023 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 
 ex024 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome 'Santo'
+
+ex025 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+ex026 - Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra 'A', em que posição ela aparece a primeira vez, em que posição ela aparece a última vez.
+
+ex027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
